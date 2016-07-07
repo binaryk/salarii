@@ -6692,3 +6692,15 @@ aside {
 nav a em {
   padding-right: 5px;
 }
+nav.topnavpar {
+  background-color: #1797be;
+  background-image: -webkit-linear-gradient(left, #1797be 0%, #23b7e5 100%);
+  background-image: -o-linear-gradient(left, #1797be 0%, #23b7e5 100%);
+  background-image: linear-gradient(to right, #1797be 0%, #23b7e5 100%);
+  background-repeat: repeat-x;
+}
+.navbar-brand {
+  font-size: 18px;
+  font-weight: bold;
+  color: #FFFFFF;
+}

@@ -167,7 +167,7 @@ export default class Header extends React.Component<any,any>{
     render(){
         return(
             <header>
-                <nav role="navigation" className="navbar">
+                <nav role="navigation" className="navbar topnavpar">
                     <Link
                         to="/"
                         className="navbar-brand">The Business App

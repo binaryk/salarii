@@ -1,0 +1,42 @@
+.wrapper {
+  display: flex;
+  flex-flow: wrap;
+
+  transition: all 0.3s ease;
+
+  > header,
+  > footer{
+    flex: 1 100%;
+  }
+
+  > section.main {
+    flex: 3 0px;
+    padding: 10px 10px 0 10px;
+  }
+
+  > header {
+    order: 0;
+  }
+
+  > aside {
+    order: 1;
+    padding-top: 20px;
+  }
+  > section.main {
+    order: 2
+  }
+
+  > footer {
+    order : 3
+  }
+
+}
+
+header {
+  background-color: #37474f;
+}
+
+aside {
+  width: 200px;
+}
+

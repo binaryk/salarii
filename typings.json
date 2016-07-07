@@ -1,0 +1,17 @@
+{
+  "name": "poc",
+  "version": false,
+  "globalDependencies": {
+    "classnames": "registry:dt/classnames#0.0.0+20160316155526",
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160317120654",
+    "joi": "registry:dt/joi#9.0.0+20160602140522",
+    "jquery": "registry:dt/jquery#1.10.0+20160620094458",
+    "kendo-ui": "registry:dt/kendo-ui#2016.1.314+20160620193355",
+    "react": "registry:dt/react#0.14.0+20160319053454",
+    "react-bootstrap": "registry:dt/react-bootstrap#0.0.0+20160621215554",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160316155526",
+    "react-router": "registry:dt/react-router#2.0.0+20160316155526",
+    "react-router/history": "registry:dt/react-router/history#2.0.0+20160602154905"
+  },
+  "dependencies": {}
+}
